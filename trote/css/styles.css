@@ -18,7 +18,7 @@ nav {
     padding: 10px;
     display: flex; /* Flex Boxing */
     /* alinhamento na horizontal - espaço entre os link */
-    justify-content: left;
+    justify-content: center;
     /* alinhamento na vertical */
     align-items: center;
 }
@@ -58,4 +58,10 @@ img {
     h2 {
         text-align: center;
     }
+    .trote{
+        margin-left: 50px
+    }
+        td {
+            padding: 10px
+        }
     
